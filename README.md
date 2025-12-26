@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuli Lokesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokii1612&label=Profile%20views&color=0e75b6&style=flat" alt="lokii1612" /> </p>
 
-- 🔭 I’m currently working on [Rail_India](https://github.com/LOKii1612/Rail_India)
-
-- 🌱 I’m currently learning **Power BI,DevOps**
-
-- 👯 I have completed [Honey Pot with Machine Learning-Based Detection Framework for IoT-Based DDoS Attacks](https://github.com/LOKii1612/Honey_Pot)
-
-- 🤝 I’m looking for help with **Decentralized Prediction Market**
+- 🔭 I’m currently working on integrating **AI with Full-Stack** for developing Softwares
 
 - 👨‍💻 All of my projects are available at [https://lokesh-portfolio-2003.netlify.app/](https://lokesh-portfolio-2003.netlify.app/)
 

@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on integrating **AI with Full-Stack** for developing Softwares
 
-- 👨‍💻 All of my projects are available at [https://lokesh-portfolio-2003.netlify.app/](https://lokesh-portfolio-2003.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://lokeshnuli-portfolio.netlify.app/](https://lokeshnuli-portfolio.netlify.app/)
 
 - 📫 How to reach me **lokeshnuli16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iUhOLo052g5r2zAhaotLnQhcKMQebC_e/view?usp=sharing](https://drive.google.com/file/d/1iUhOLo052g5r2zAhaotLnQhcKMQebC_e/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r1w_a6K28wtMGRx_TxJF2hBfDIPGdTjn/view?usp=sharing](https://drive.google.com/file/d/1r1w_a6K28wtMGRx_TxJF2hBfDIPGdTjn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
